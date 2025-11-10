@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Lost & Found",
+  "description": "A comprehensive Lost and Found system powered by React and Gemini. Users can report lost and found items, and administrators can manage all entries through a dedicated dashboard.",
+  "requestFramePermissions": []
+}
